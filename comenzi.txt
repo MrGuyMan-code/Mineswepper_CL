@@ -1,0 +1,1 @@
+cobc -x mineswepper.cbl -o mineswepper && ./mineswepper
